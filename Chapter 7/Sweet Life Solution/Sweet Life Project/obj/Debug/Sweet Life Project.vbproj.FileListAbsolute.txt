@@ -1,0 +1,10 @@
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\bin\Debug\Sweet Life Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\bin\Debug\Sweet Life Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\bin\Debug\Sweet Life Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\bin\Debug\Sweet Life Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet_Life_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet_Life_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet Life Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet Life Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet Life Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 7\Sweet Life Solution\Sweet Life Project\obj\Debug\Sweet Life Project.pdb

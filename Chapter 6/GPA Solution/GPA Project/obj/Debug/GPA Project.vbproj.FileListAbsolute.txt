@@ -1,0 +1,10 @@
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\bin\Debug\GPA Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\bin\Debug\GPA Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\bin\Debug\GPA Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\bin\Debug\GPA Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 6\GPA Solution\GPA Project\obj\Debug\GPA Project.pdb
