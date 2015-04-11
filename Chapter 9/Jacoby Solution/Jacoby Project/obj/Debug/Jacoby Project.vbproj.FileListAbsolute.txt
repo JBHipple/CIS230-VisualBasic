@@ -1,0 +1,10 @@
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\bin\Debug\Jacoby Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\bin\Debug\Jacoby Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\bin\Debug\Jacoby Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\bin\Debug\Jacoby Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 9\Jacoby Solution\Jacoby Project\obj\Debug\Jacoby Project.pdb
