@@ -1,0 +1,11 @@
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Student Data Files\Chap10\Glovers Solution\Glovers Project\bin\Debug\Glovers Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\bin\Debug\Glovers Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\bin\Debug\Glovers Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\bin\Debug\Glovers Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\bin\Debug\Glovers Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 10\Glovers Solution\Glovers Project\obj\Debug\Glovers Project.pdb
