@@ -1,0 +1,10 @@
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\bin\Debug\Math Triangle Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\bin\Debug\Math Triangle Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\bin\Debug\Math Triangle Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\bin\Debug\Math Triangle Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math_Triangle_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math_Triangle_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math Triangle Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math Triangle Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math Triangle Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 11\Math Triangle Solution\Math Triangle Project\obj\Debug\Math Triangle Project.pdb
