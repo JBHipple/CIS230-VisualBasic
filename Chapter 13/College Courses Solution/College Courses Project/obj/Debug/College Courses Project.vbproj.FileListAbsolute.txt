@@ -1,0 +1,12 @@
+H:\0FTP\cis230\New2012\StudentFiles\VB2012\Chap13\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.exe.config
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\bin\Debug\Courses.accdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.pdb
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\bin\Debug\College Courses Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College_Courses_Project.frmMain.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College_Courses_Project.Resources.resources
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.vbproj.GenerateResource.Cache
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.exe
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.xml
+F:\JJC - Spring 2015\CIS 230 - Visual Basic\Assignments\Chapter 13\College Courses Solution\College Courses Project\obj\Debug\College Courses Project.pdb
